@@ -6,7 +6,7 @@
 - 📫 How to reach me **joris.bailly.2001@gmail.com**
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="300"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
