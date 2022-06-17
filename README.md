@@ -3,9 +3,6 @@
 </div>
 
 
-<!--
-**JorisBly/JorisBly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi there JorisBly</h1>
 <h3 align="center">I am a 1st year apprentice at the Jobtrek foundation in Switzerland</h3>
 
