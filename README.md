@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **joris.bailly.2001@gmail.com**
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2J3VPYmnhO2jjKAX0X/giphy.gif" width="100"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joris-bailly-535b32206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joris bailly" height="30" width="40" /></a>
