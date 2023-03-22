@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript , PHP**
 
-- 📫 How to reach me **joris.bailly.2001@gmail.com**
+- 📫 How to reach me **bly.joris@gmail.com**
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="300"/>
