@@ -1,5 +1,5 @@
 <h1 align="center">Hi there JorisBly</h1>
-<h3 align="center">I am a 1st year apprentice at the Jobtrek foundation in Switzerland</h3>
+<h3 align="center">I am a 2nd year apprentice at the Jobtrek foundation in Switzerland</h3>
 
 - 🌱 I’m currently learning **JavaScript , PHP**
 
