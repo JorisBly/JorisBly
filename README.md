@@ -1,7 +1,7 @@
 <h1 align="center">Hi there JorisBly</h1>
 <h3 align="center">I am a 2nd year apprentice at the Jobtrek foundation in Switzerland</h3>
 
-- 🌱 I’m currently learning **JavaScript , PHP**
+- 🌱 I’m currently learning **Vue , Express, Mongodb**
 
 - 📫 How to reach me **bly.joris@gmail.com**
 
